@@ -1,5 +1,10 @@
 # Automatic_Dictation
+
 Dictate your dictation of GRE Words
+
+# Functionalities
+
+Select a range of words from your word list in word.txt and dictate some of them.
 
 # Instructions on how to use the program:
 
