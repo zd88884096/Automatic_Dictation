@@ -5,9 +5,9 @@ Dictate your dictation of GRE Words
 
 1. Download Python3 (search it on google)
 
-2. Download the code from Github by git clone  or manually download each file
+2. Download the code from Github by git clone git@github.com:zd88884096/Automatic_Dictation.git or git clone https://github.com/zd88884096/Automatic_Dictation.git or manually download each file
 
-2. Go to and enter the word_selection directory in command prompt / terminal
+2. Go to and enter the word_selection directory in your command prompt / terminal
 
 3. Run the following command
 	
